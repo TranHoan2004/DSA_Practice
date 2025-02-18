@@ -1,5 +1,7 @@
 package practice.Merge_Two_Sorted_List;
 
+import model.ListNode;
+
 /**
  * <ul>
  * <li>
@@ -58,22 +60,5 @@ public class Merge_Two_Sorted_List {
             l2.next = mergeTwoLists(l1, l2.next);
             return l2;
         }
-    }
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
     }
 }
