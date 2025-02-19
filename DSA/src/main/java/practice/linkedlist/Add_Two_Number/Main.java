@@ -1,4 +1,4 @@
-package practice.Add_Two_Number;
+package practice.linkedlist.Add_Two_Number;
 
 /**
  * You are given two <b>non-empty</b> linked lists representing two non-negative integers.

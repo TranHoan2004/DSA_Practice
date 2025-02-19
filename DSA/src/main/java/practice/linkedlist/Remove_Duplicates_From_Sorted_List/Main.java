@@ -1,4 +1,4 @@
-package practice.Remove_Duplicates_From_Sorted_List;
+package practice.linkedlist.Remove_Duplicates_From_Sorted_List;
 
 import model.ListNode;
 

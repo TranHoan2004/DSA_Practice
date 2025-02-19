@@ -1,4 +1,4 @@
-package practice.Merge_Two_Sorted_List;
+package practice.linkedlist.Merge_Two_Sorted_List;
 
 import model.ListNode;
 

@@ -1,4 +1,4 @@
-package practice.Linked_List_Cycle;
+package practice.linkedlist.Linked_List_Cycle;
 
 import model.ListNode;
 
